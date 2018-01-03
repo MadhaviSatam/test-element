@@ -1,4 +1,4 @@
-# \<madhavi-element\>
+# \<test-element\>
 
 new element
 
